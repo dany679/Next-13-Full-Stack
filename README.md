@@ -3,7 +3,7 @@
 </p>
 
 <p>Link para visitar o site : 
-<a href="https://link" />Demo</a>
+<a href="https://next-13-full-stack-seven.vercel.app/" />Demo</a>
 </p>
 <p align='center'> Promtopia site<p/>
 
@@ -39,7 +39,8 @@ MIT
 
 # :wrench: How To Run
 
-To run this app on your computer, run these commands inside the repository root folder
+To run this app on your computer, run these commands inside the repository root folder, than
+go to you .env and add GOOGLE_ID, GOOGLE_CLIENT_SECRET , MONGODB_URI to run as development,
 case you use npm just change to npm install
 in server and client
 
